@@ -10,17 +10,20 @@ function App() {
     {
       name: 'John Smith',
       salary: 4500,
-      increase: true
+      increase: true,
+      id: 1
     },
     {
       name: 'John Doe',
       salary: 1200,
-      increase: false
+      increase: false,
+      id: 2
     },
     {
       name: 'Mary Jane',
       salary: 3950,
-      increase: true
+      increase: true,
+      id:3
     }
   ]
   return (
